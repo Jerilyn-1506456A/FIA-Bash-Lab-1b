@@ -1,5 +1,4 @@
 #!/bin/bash
-
 reset
 
 if [ "$EUID" -ne 0 ] ; then
